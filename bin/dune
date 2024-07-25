@@ -1,4 +1,7 @@
 (executable
  (public_name fo)
  (name main)
- (libraries fo))
+ (libraries base fo))
+
+
+
